@@ -7,4 +7,4 @@ How to connect fastAPI to MongoDB
 - ```docker run -d -it -p 27017:27017 mongo:tag```
 
 ## Run FastAPI
-``` uvicorn mani:app --reload --port 80 (or your port wont)
+``` uvicorn mani:app --reload --port 80 (or your port wont) ```
